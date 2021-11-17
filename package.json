@@ -1,0 +1,13 @@
+{
+  "name": "temp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "module1": "link:./module1"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.0-beta"
+  }
+}
